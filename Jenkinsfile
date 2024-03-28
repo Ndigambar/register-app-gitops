@@ -39,7 +39,6 @@ pipeline {
                   sh "git push https://github.com/Ndigambar/register-app-gitops main"
                 }
             }
-        }
-      
+        }  
     }
 }
